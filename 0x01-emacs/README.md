@@ -1,2 +1,2 @@
 # holbertonschool-zero_day
-Hola todo bien
+Some functions in emacs
